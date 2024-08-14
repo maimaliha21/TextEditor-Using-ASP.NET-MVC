@@ -144,3 +144,4 @@ C:\Users\user\source\repos\EditorText\EditorText\obj\Debug\net8.0\refint\EditorT
 C:\Users\user\source\repos\EditorText\EditorText\obj\Debug\net8.0\EditorText.pdb
 C:\Users\user\source\repos\EditorText\EditorText\obj\Debug\net8.0\EditorText.genruntimeconfig.cache
 C:\Users\user\source\repos\EditorText\EditorText\obj\Debug\net8.0\ref\EditorText.dll
+C:\Users\user\source\repos\EditorText\EditorText\obj\Debug\net8.0\EditorText.sourcelink.json
